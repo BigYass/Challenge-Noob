@@ -1,0 +1,2 @@
+flag = picoCTF{e4sy_w1n_br0_just_x0r}
+xor_key = Welcome To PICO bro
